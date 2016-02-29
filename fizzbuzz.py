@@ -1,4 +1,3 @@
-
 """
 fizzbuzz.py
 Author: Funjando
@@ -50,7 +49,7 @@ Buzz
 
 
 #inputs
-nr_nr=int(input("How many numbers shall we print?"))
+nr_nr=int(input("How many numbers shall we print? "))
 fizz=int(input("For multiples of what number shall we print 'Fizz'? "))
 buzz=int(input("For multiples of what number shall we print 'Buzz'? "))
 
